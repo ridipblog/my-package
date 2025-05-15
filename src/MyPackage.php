@@ -6,6 +6,6 @@ class MyPackage
 {
     public function hello()
     {
-        return "this is my second version code !";
+        return "this is my third version code !";
     }
 }
